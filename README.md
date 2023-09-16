@@ -273,6 +273,7 @@ Uma locadora precisa Registrar algumas informaçoes, para o controle de cada fil
 # Autor
 
 Jullia Santos Wanderlei 
-RA 234822
+
+Bancos de Dados, 15/09/2023
 
 
