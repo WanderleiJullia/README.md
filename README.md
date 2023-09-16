@@ -5,7 +5,7 @@
 
 O projeto tem o objetivo principal de exibir os códigos e diagramas, que foram utilizados para, demonstrar oito situações dessemelhantes. 
 
-Os diagrmas consiste em, obter uma melhor visualização de um projeto futuro, tornando os dados mais acessivel e compreensivel para todos os envolviodos. 
+Os diagramas consiste em, obter uma melhor visualização de um projeto futuro, tornando os dados mais acessivel e compreensivel para todos os envolviodos. 
 
 ## Exercicio 1 (Diagrama: Alunos)
 
